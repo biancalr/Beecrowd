@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author bianc
  *
  */
-public class Bee_1040_media3 {
+public class Bee_1040_Media3 {
 
 	public static void main(String[] args) {
 		double N1, N2, N3, N4, media, recuperacao, mediaRecuperacao;
